@@ -1118,12 +1118,3 @@ VIT University
 Project
 
 Conversational BI — AI-Powered Business Intelligence using Natural Language
-
-⭐ If you found this project useful
-
-Consider giving the repository a ⭐ on GitHub.
-
-
- ent/KPI logic works. If you send me the project ZIP, I can inspect the whole project and make the README completely accurate to your implementation instead of using generic descriptions.
-
-Would you like me to tailor this README to your exact codebase, including the real Ollama model, API endpoints, database schema, and setup commands?
